@@ -35,4 +35,4 @@ Desenvolvedor 👨‍💻
 João Vitor da Silva Oliveira
 Desafio #1: Bot Conversacional FURIA 🦊
 
-SITE TESTAVEL, LINK: https://zmaestr0z.github.io/Furia_Bot/
+SITE TESTAVEL, LINK: https://joaovitor323.github.io/Furia_Bot/
